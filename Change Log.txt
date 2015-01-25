@@ -1,0 +1,54 @@
+ChangeLog:
+V1.8
+Added New Door Textures
+Added Red Sand Textures
+Added Red Sandstone Textures
+Added Iron Trapdoor Texture
+Added New GUI Elements
+Added New Items
+
+V1.7
+Added Podzol
+Added Double Plants
+Added Horse Armour Icons
+
+v1.6
+Added Stained Glass Blocks
+Added Stained Glass Panes
+Added Compact Ice
+Added Podzol
+Added VArious new Plants
+Added Various New Trees
+Added Various New Planks
+
+v1.5
+Added Hardened Clay Blocks in all colours
+Added Hay Block
+Added Coal Block
+Added Footprint to particles
+Added Charcoal Item
+Added Lead Item
+Added Name Tag Item
+
+v1.4
+Initial 1.6 Support Update
+
+v1.3
+Added Activator Rails
+Improved Water Texture to have less blur
+
+v1.2
+Fixed bug with flowing lava texture
+Fixed bug with flowing water texture
+
+V1.1
+Added Quartz Block
+Added Chisseled Quartz Block
+Added Pillar Quartz Block
+Added Hopper 
+Added Minecart with TNT Item
+Added Minecart with hopper Item
+Added Dropper Block
+
+V1.0
+Initial Converted release for 1.5.1
