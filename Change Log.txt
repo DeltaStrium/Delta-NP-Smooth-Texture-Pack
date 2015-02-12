@@ -5,7 +5,14 @@ Added Red Sand Textures
 Added Red Sandstone Textures
 Added Iron Trapdoor Texture
 Added New GUI Elements
-Added New Items
+Added New Items Textures
+Added New Quartz Texture
+Added New Netherrack Texture
+Added New Stone Textures
+Added New Ore Textures
+Added New Mob Textures
+Added New Metal Block Textures
+Added New CTM Support
 
 V1.7
 Added Podzol
