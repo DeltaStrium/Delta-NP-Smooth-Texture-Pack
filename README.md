@@ -7,10 +7,10 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 
 Credits:
 ================
-* Nuttyprot [for his wonderfull texture pack]
-* Scuttles [For his metal door frame texture}
-* DarksideBD [for the texture contributions]
-* TempusBD [For the texture contributions]
+* Nuttyprot [For His wonderfull texture pack]
+* CeLittle3 [For His Texture Contributions]
+* DarksideBD [For His Texture Contributions]
+* TempusBD [For His texture contributions]
 * DrakeBD [For Compiling & Editing the pack]
 
 Licensing:
