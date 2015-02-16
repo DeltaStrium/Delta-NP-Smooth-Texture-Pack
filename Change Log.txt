@@ -12,7 +12,15 @@ Added New Stone Textures
 Added New Ore Textures
 Added New Mob Textures
 Added New Metal Block Textures
+Added New Bed Texture
+Added New Crafting Table Textures
+Added New Cake Texture
+Added Random Mob Support
+Added NEI Support
+Added Baubles Support
 Added New CTM Support
+
+Plus Lots Lots More 
 
 V1.7
 Added Podzol
