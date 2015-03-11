@@ -1,4 +1,9 @@
 ChangeLog:
+V1.9
+Updated Red Brick
+Updated Furnace Side
+Updated Furnace Top
+Updated Iron Block
 V1.8
 Added New Door Textures
 Added Red Sand Textures
