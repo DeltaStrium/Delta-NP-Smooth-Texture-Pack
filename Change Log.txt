@@ -1,9 +1,14 @@
 ChangeLog:
 V1.9
+Added XP Orbs
 Updated Red Brick
 Updated Furnace Side
 Updated Furnace Top
 Updated Iron Block
+Updated Nether Brick
+Updated Gold Block
+Updated Woods
+Updated Doors
 V1.8
 Added New Door Textures
 Added Red Sand Textures
