@@ -9,6 +9,8 @@ Updated Nether Brick
 Updated Gold Block
 Updated Woods
 Updated Doors
+Updated Buckets
+Texture Clean Ups plus more
 V1.8
 Added New Door Textures
 Added Red Sand Textures
