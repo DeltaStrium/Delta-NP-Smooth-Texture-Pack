@@ -7,9 +7,14 @@ Updated Furnace Top
 Updated Iron Block
 Updated Nether Brick
 Updated Gold Block
-Updated Woods
-Updated Doors
-Updated Buckets
+New Wood Planks
+New Doors
+New Buckets
+Updated Piston
+Updated Chests
+New Blaze Textures
+New Skeleton Textures
+New Zombie Textures
 Texture Clean Ups plus more
 V1.8
 Added New Door Textures
