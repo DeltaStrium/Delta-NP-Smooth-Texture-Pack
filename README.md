@@ -8,7 +8,7 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 Credits:
 ================
 * Nuttyprot [For His wonderfull texture pack]
-* CeLittle3 [For His Texture Contributions]
+* Wreckage [For His Texture Contributions]
 * DarksideBD [For His Texture Contributions]
 * TempusBD [For His texture contributions]
 * DrakeBD [For Compiling & Editing the pack]
