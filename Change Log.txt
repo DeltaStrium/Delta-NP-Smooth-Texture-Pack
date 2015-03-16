@@ -1,6 +1,6 @@
 ChangeLog:
 V1.9
-Added XP Orbs
+New XP Orbs
 Updated Red Brick
 Updated Furnace Side
 Updated Furnace Top
