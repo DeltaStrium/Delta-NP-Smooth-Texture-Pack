@@ -10,12 +10,17 @@ Updated Gold Block
 New Wood Planks
 New Doors
 New Buckets
+New String
+Updated Carrots Plant
+Updated Potato Plant
+Updated Crafting Table
 Updated Piston
 Updated Chests
 New Blaze Textures
 New Skeleton Textures
 New Zombie Textures
 Texture Clean Ups plus more
+
 V1.8
 Added New Door Textures
 Added Red Sand Textures
